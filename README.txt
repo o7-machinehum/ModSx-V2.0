@@ -13,4 +13,4 @@ This allows for more vertical mounted components, banana plugs, vert pots etc...
 
 It is very much in it's infancy.
 
--Walker
+-Walker / Ryan(DOT)CJW@Gmail(DOT)com
