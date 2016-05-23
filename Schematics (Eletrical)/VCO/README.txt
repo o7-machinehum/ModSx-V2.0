@@ -7,6 +7,10 @@
                                                               
 V0.1 - Voltage Controlled Oscillator
 
+Based off of a cct found on page 19 of TI's "LM13700" datasheet.
+
+http://www.ti.com/lit/ds/symlink/lm13700.pdf
+
 To do:
 
 -Walker
